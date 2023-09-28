@@ -1,0 +1,10 @@
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\bin\Debug\GraphicsApplication_Demo.exe.config
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\bin\Debug\GraphicsApplication_Demo.exe
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\bin\Debug\GraphicsApplication_Demo.pdb
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\obj\Debug\GraphicsApplication_Demo.csproj.AssemblyReference.cache
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\obj\Debug\GraphicsApplication_Demo.Form1.resources
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\obj\Debug\GraphicsApplication_Demo.Properties.Resources.resources
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\obj\Debug\GraphicsApplication_Demo.csproj.GenerateResource.cache
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\obj\Debug\GraphicsApplication_Demo.csproj.CoreCompileInputs.cache
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\obj\Debug\GraphicsApplication_Demo.exe
+C:\Users\aarro\source\repos\GraphicsApplication_Demo\GraphicsApplication_Demo\obj\Debug\GraphicsApplication_Demo.pdb
